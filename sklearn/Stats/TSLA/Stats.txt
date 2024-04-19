@@ -1,0 +1,65 @@
+DATAFRAME
+                  Open  ...  year
+Date                    ...      
+2010-06-29    1.266667  ...  2010
+2010-06-30    1.719333  ...  2010
+2010-07-01    1.666667  ...  2010
+2010-07-02    1.533333  ...  2010
+2010-07-06    1.333333  ...  2010
+...                ...  ...   ...
+2024-04-08  169.339996  ...  2024
+2024-04-09  172.910004  ...  2024
+2024-04-10  173.039993  ...  2024
+2024-04-11  172.550003  ...  2024
+2024-04-12  172.339996  ...  2024
+
+[3471 rows x 11 columns]
+
+ DESCRIBTION
+              Open  ...         year
+count  3471.000000  ...  3471.000000
+mean     72.983338  ...  2016.879574
+std     102.028429  ...     4.000132
+min       1.076000  ...  2010.000000
+25%      11.169000  ...  2013.000000
+50%      17.197332  ...  2017.000000
+75%     140.235001  ...  2020.000000
+max     411.470001  ...  2024.000000
+
+[8 rows x 11 columns]
+
+ INFO
+<class 'pandas.core.frame.DataFrame'>
+Index: 3471 entries, 2010-06-29 to 2024-04-12
+Data columns (total 11 columns):
+ #   Column     Non-Null Count  Dtype  
+---  ------     --------------  -----  
+ 0   Open       3471 non-null   float64
+ 1   High       3471 non-null   float64
+ 2   Low        3471 non-null   float64
+ 3   Close      3471 non-null   float64
+ 4   Adj Close  3471 non-null   float64
+ 5   Volume     3471 non-null   int64  
+ 6   Up         3471 non-null   int32  
+ 7   Down       3471 non-null   int32  
+ 8   day        3471 non-null   int64  
+ 9   month      3471 non-null   int64  
+ 10  year       3471 non-null   int64  
+dtypes: float64(5), int32(2), int64(4)
+memory usage: 298.3+ KB
+None
+
+ VARIANCE
+Variance per column:
+ Open         1.040980e+04
+High         1.087415e+04
+Low          9.909645e+03
+Close        1.039287e+04
+Adj Close    1.039287e+04
+Volume       6.285624e+15
+Up           2.500660e-01
+Down         2.500719e-01
+day          7.674658e+01
+month        1.188220e+01
+year         1.600106e+01
+dtype: float64
