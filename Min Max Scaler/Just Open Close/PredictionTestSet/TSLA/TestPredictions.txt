@@ -1,0 +1,1396 @@
+
+ 2022-11-22
+Prediction:  134.91452
+Actual:  169.910004
+
+ 2022-11-23
+Prediction:  138.18526
+Actual:  183.199997
+
+ 2022-11-25
+Prediction:  146.05505
+Actual:  182.860001
+
+ 2022-11-28
+Prediction:  142.549
+Actual:  182.919998
+
+ 2022-11-29
+Prediction:  146.01767
+Actual:  180.830002
+
+ 2022-11-30
+Prediction:  144.23483
+Actual:  194.699997
+
+ 2022-12-01
+Prediction:  154.48311
+Actual:  194.699997
+
+ 2022-12-02
+Prediction:  150.75357
+Actual:  194.86000099999998
+
+ 2022-12-05
+Prediction:  149.10214
+Actual:  182.449997
+
+ 2022-12-06
+Prediction:  143.42195
+Actual:  179.820007
+
+ 2022-12-07
+Prediction:  139.17586
+Actual:  174.039993
+
+ 2022-12-08
+Prediction:  137.2632
+Actual:  173.440002
+
+ 2022-12-09
+Prediction:  138.37962
+Actual:  179.050003
+
+ 2022-12-12
+Prediction:  139.91234
+Actual:  167.820007
+
+ 2022-12-13
+Prediction:  139.08081
+Actual:  160.949997
+
+ 2022-12-14
+Prediction:  129.04431
+Actual:  156.800003
+
+ 2022-12-15
+Prediction:  125.47393
+Actual:  157.669998
+
+ 2022-12-16
+Prediction:  129.27946
+Actual:  150.229996
+
+ 2022-12-19
+Prediction:  125.81584
+Actual:  149.869995
+
+ 2022-12-20
+Prediction:  121.03176
+Actual:  137.800003
+
+ 2022-12-21
+Prediction:  117.40839
+Actual:  137.570007
+
+ 2022-12-22
+Prediction:  115.71029
+Actual:  125.349998
+
+ 2022-12-23
+Prediction:  112.43688
+Actual:  123.15000199999999
+
+ 2022-12-27
+Prediction:  110.51088
+Actual:  109.099998
+
+ 2022-12-28
+Prediction:  109.44562
+Actual:  112.709999
+
+ 2022-12-29
+Prediction:  111.10093
+Actual:  121.82000000000001
+
+ 2022-12-30
+Prediction:  111.01152
+Actual:  123.18
+
+ 2023-01-03
+Prediction:  120.75174
+Actual:  108.099998
+
+ 2023-01-04
+Prediction:  116.551346
+Actual:  113.639999
+
+ 2023-01-05
+Prediction:  116.96419
+Actual:  110.339996
+
+ 2023-01-06
+Prediction:  115.275475
+Actual:  113.05999800000001
+
+ 2023-01-09
+Prediction:  121.098
+Actual:  119.769997
+
+ 2023-01-10
+Prediction:  122.39913
+Actual:  118.849998
+
+ 2023-01-11
+Prediction:  123.046585
+Actual:  123.22000099999998
+
+ 2023-01-12
+Prediction:  123.36575
+Actual:  123.559998
+
+ 2023-01-13
+Prediction:  119.638466
+Actual:  122.400002
+
+ 2023-01-17
+Prediction:  125.52402
+Actual:  131.490005
+
+ 2023-01-18
+Prediction:  133.3768
+Actual:  128.779999
+
+ 2023-01-19
+Prediction:  126.59953
+Actual:  127.169998
+
+ 2023-01-20
+Prediction:  127.57674
+Actual:  133.419998
+
+ 2023-01-23
+Prediction:  132.86038
+Actual:  143.75
+
+ 2023-01-24
+Prediction:  138.25427
+Actual:  143.889999
+
+ 2023-01-25
+Prediction:  137.42604
+Actual:  144.429993
+
+ 2023-01-26
+Prediction:  151.41505
+Actual:  160.270004
+
+ 2023-01-27
+Prediction:  153.35796
+Actual:  177.899994
+
+ 2023-01-30
+Prediction:  165.87149
+Actual:  166.660004
+
+ 2023-01-31
+Prediction:  155.04016
+Actual:  173.220001
+
+ 2023-02-01
+Prediction:  162.50114
+Actual:  181.410004
+
+ 2023-02-02
+Prediction:  173.47704
+Actual:  188.270004
+
+ 2023-02-03
+Prediction:  170.71457
+Actual:  189.979996
+
+ 2023-02-06
+Prediction:  178.2213
+Actual:  194.759995
+
+ 2023-02-07
+Prediction:  181.05943
+Actual:  196.80999800000004
+
+ 2023-02-08
+Prediction:  180.78421
+Actual:  201.28999299999998
+
+ 2023-02-09
+Prediction:  190.38953
+Actual:  207.32000700000003
+
+ 2023-02-10
+Prediction:  185.88365
+Actual:  196.889999
+
+ 2023-02-13
+Prediction:  179.39563
+Actual:  194.639999
+
+ 2023-02-14
+Prediction:  177.30504
+Actual:  209.25000000000003
+
+ 2023-02-15
+Prediction:  193.62941
+Actual:  214.24000499999997
+
+ 2023-02-16
+Prediction:  192.78154
+Actual:  202.03999299999998
+
+ 2023-02-17
+Prediction:  184.07043
+Actual:  208.30999799999998
+
+ 2023-02-21
+Prediction:  188.0909
+Actual:  197.369995
+
+ 2023-02-22
+Prediction:  182.33498
+Actual:  200.86000099999998
+
+ 2023-02-23
+Prediction:  187.24922
+Actual:  202.070007
+
+ 2023-02-24
+Prediction:  180.9828
+Actual:  196.880005
+
+ 2023-02-27
+Prediction:  185.73833
+Actual:  207.63000500000004
+
+ 2023-02-28
+Prediction:  192.62952
+Actual:  205.710007
+
+ 2023-03-01
+Prediction:  189.09776
+Actual:  202.77000400000003
+
+ 2023-03-02
+Prediction:  173.01035
+Actual:  190.899994
+
+ 2023-03-03
+Prediction:  179.7163
+Actual:  197.789993
+
+ 2023-03-06
+Prediction:  182.83833
+Actual:  193.809998
+
+ 2023-03-07
+Prediction:  176.8403
+Actual:  187.710007
+
+ 2023-03-08
+Prediction:  171.61263
+Actual:  182.0
+
+ 2023-03-09
+Prediction:  167.67635
+Actual:  172.919998
+
+ 2023-03-10
+Prediction:  163.49136
+Actual:  173.440002
+
+ 2023-03-13
+Prediction:  157.36009
+Actual:  174.479996
+
+ 2023-03-14
+Prediction:  165.28511
+Actual:  183.259995
+
+ 2023-03-15
+Prediction:  168.13016
+Actual:  180.449997
+
+ 2023-03-16
+Prediction:  167.78818
+Actual:  184.130005
+
+ 2023-03-17
+Prediction:  171.18088
+Actual:  180.130005
+
+ 2023-03-20
+Prediction:  165.90234
+Actual:  183.25
+
+ 2023-03-21
+Prediction:  174.29678
+Actual:  197.580002
+
+ 2023-03-22
+Prediction:  183.4686
+Actual:  191.149994
+
+ 2023-03-23
+Prediction:  180.10854
+Actual:  192.220001
+
+ 2023-03-24
+Prediction:  177.06905
+Actual:  190.410004
+
+ 2023-03-27
+Prediction:  179.39563
+Actual:  191.809998
+
+ 2023-03-28
+Prediction:  177.35405
+Actual:  189.190002
+
+ 2023-03-29
+Prediction:  178.29596
+Actual:  193.88000499999998
+
+ 2023-03-30
+Prediction:  180.34007
+Actual:  195.279999
+
+ 2023-03-31
+Prediction:  182.01057
+Actual:  207.460007
+
+ 2023-04-03
+Prediction:  183.99438
+Actual:  194.770004
+
+ 2023-04-04
+Prediction:  181.81155
+Actual:  192.580002
+
+ 2023-04-05
+Prediction:  176.14647
+Actual:  185.520004
+
+ 2023-04-06
+Prediction:  169.98715
+Actual:  185.059998
+
+ 2023-04-10
+Prediction:  167.43953
+Actual:  184.509995
+
+ 2023-04-11
+Prediction:  172.9819
+Actual:  186.789993
+
+ 2023-04-12
+Prediction:  176.3299
+Actual:  180.539993
+
+ 2023-04-13
+Prediction:  169.90851
+Actual:  185.89999399999996
+
+ 2023-04-14
+Prediction:  170.71457
+Actual:  185.0
+
+ 2023-04-17
+Prediction:  172.66873
+Actual:  187.039993
+
+ 2023-04-18
+Prediction:  173.3635
+Actual:  184.309998
+
+ 2023-04-19
+Prediction:  166.74646
+Actual:  180.589996
+
+ 2023-04-20
+Prediction:  156.30573
+Actual:  162.990005
+
+ 2023-04-21
+Prediction:  155.22493
+Actual:  165.080002
+
+ 2023-04-24
+Prediction:  155.10641
+Actual:  162.550003
+
+ 2023-04-25
+Prediction:  151.2998
+Actual:  160.669998
+
+ 2023-04-26
+Prediction:  151.68181
+Actual:  153.75
+
+ 2023-04-27
+Prediction:  145.66818
+Actual:  160.190002
+
+ 2023-04-28
+Prediction:  152.16043
+Actual:  164.309998
+
+ 2023-05-01
+Prediction:  153.9462
+Actual:  161.830002
+
+ 2023-05-02
+Prediction:  152.90973
+Actual:  160.309998
+
+ 2023-05-03
+Prediction:  151.45596
+Actual:  160.610001
+
+ 2023-05-04
+Prediction:  153.58182
+Actual:  161.199997
+
+ 2023-05-05
+Prediction:  154.58295
+Actual:  170.059998
+
+ 2023-05-08
+Prediction:  162.38963
+Actual:  171.789993
+
+ 2023-05-09
+Prediction:  158.52336
+Actual:  169.149994
+
+ 2023-05-10
+Prediction:  161.43886
+Actual:  168.539993
+
+ 2023-05-11
+Prediction:  158.33708
+Actual:  172.080002
+
+ 2023-05-12
+Prediction:  164.26181
+Actual:  167.979996
+
+ 2023-05-15
+Prediction:  157.50853
+Actual:  166.350006
+
+ 2023-05-16
+Prediction:  155.89458
+Actual:  166.520004
+
+ 2023-05-17
+Prediction:  158.11298
+Actual:  173.860001
+
+ 2023-05-18
+Prediction:  162.77357
+Actual:  176.889999
+
+ 2023-05-19
+Prediction:  165.16858
+Actual:  180.139999
+
+ 2023-05-22
+Prediction:  168.06
+Actual:  188.869995
+
+ 2023-05-23
+Prediction:  172.54677
+Actual:  185.770004
+
+ 2023-05-24
+Prediction:  169.29962
+Actual:  182.899994
+
+ 2023-05-25
+Prediction:  172.8588
+Actual:  184.470001
+
+ 2023-05-26
+Prediction:  171.2685
+Actual:  193.169998
+
+ 2023-05-30
+Prediction:  184.14346
+Actual:  201.160004
+
+ 2023-05-31
+Prediction:  183.91595
+Actual:  203.929993
+
+ 2023-06-01
+Prediction:  186.19789
+Actual:  207.52000399999997
+
+ 2023-06-02
+Prediction:  192.3084
+Actual:  213.970001
+
+ 2023-06-05
+Prediction:  198.5978
+Actual:  217.610001
+
+ 2023-06-06
+Prediction:  197.18857
+Actual:  221.30999799999998
+
+ 2023-06-07
+Prediction:  206.65857
+Actual:  224.570007
+
+ 2023-06-08
+Prediction:  203.71999
+Actual:  234.860001
+
+ 2023-06-09
+Prediction:  223.41245
+Actual:  244.399994
+
+ 2023-06-12
+Prediction:  222.50046
+Actual:  249.830002
+
+ 2023-06-13
+Prediction:  226.98726
+Actual:  258.709991
+
+ 2023-06-14
+Prediction:  232.37616
+Actual:  256.790009
+
+ 2023-06-15
+Prediction:  222.88751
+Actual:  255.89999400000002
+
+ 2023-06-16
+Prediction:  231.36722
+Actual:  260.540009
+
+ 2023-06-20
+Prediction:  233.5335
+Actual:  274.450012
+
+ 2023-06-21
+Prediction:  244.59496
+Actual:  259.459991
+
+ 2023-06-22
+Prediction:  224.7925
+Actual:  264.609985
+
+ 2023-06-23
+Prediction:  231.68211
+Actual:  256.600006
+
+ 2023-06-26
+Prediction:  224.17632
+Actual:  241.050003
+
+ 2023-06-27
+Prediction:  218.72192
+Actual:  250.210007
+
+ 2023-06-28
+Prediction:  223.88591
+Actual:  256.23999
+
+ 2023-06-29
+Prediction:  230.68532
+Actual:  257.5
+
+ 2023-06-30
+Prediction:  232.75528
+Actual:  261.769989
+
+ 2023-07-03
+Prediction:  245.7498
+Actual:  279.820007
+
+ 2023-07-05
+Prediction:  247.59451
+Actual:  282.480011
+
+ 2023-07-06
+Prediction:  247.04477
+Actual:  276.540009
+
+ 2023-07-07
+Prediction:  247.27559
+Actual:  274.429993
+
+ 2023-07-10
+Prediction:  245.6671
+Actual:  269.609985
+
+ 2023-07-11
+Prediction:  239.3154
+Actual:  269.790009
+
+ 2023-07-12
+Prediction:  245.59688
+Actual:  271.98999
+
+ 2023-07-13
+Prediction:  244.12308
+Actual:  277.899994
+
+ 2023-07-14
+Prediction:  246.11613
+Actual:  281.380005
+
+ 2023-07-17
+Prediction:  254.01962
+Actual:  290.380005
+
+ 2023-07-18
+Prediction:  256.98993
+Actual:  293.339996
+
+ 2023-07-19
+Prediction:  261.87366
+Actual:  291.26001
+
+ 2023-07-20
+Prediction:  248.22397
+Actual:  262.899994
+
+ 2023-07-21
+Prediction:  238.83556
+Actual:  260.019989
+
+ 2023-07-24
+Prediction:  228.91249
+Actual:  269.059998
+
+ 2023-07-25
+Prediction:  242.37234
+Actual:  265.279999
+
+ 2023-07-26
+Prediction:  234.92513
+Actual:  264.350006
+
+ 2023-07-27
+Prediction:  239.07704
+Actual:  255.710007
+
+ 2023-07-28
+Prediction:  232.1488
+Actual:  266.440002
+
+ 2023-07-31
+Prediction:  238.40031
+Actual:  267.429993
+
+ 2023-08-01
+Prediction:  237.3706
+Actual:  261.070007
+
+ 2023-08-02
+Prediction:  228.67789
+Actual:  254.110001
+
+ 2023-08-03
+Prediction:  225.77408
+Actual:  259.320007
+
+ 2023-08-04
+Prediction:  233.07132
+Actual:  253.860001
+
+ 2023-08-07
+Prediction:  225.31958
+Actual:  251.449997
+
+ 2023-08-08
+Prediction:  222.03755
+Actual:  249.699997
+
+ 2023-08-09
+Prediction:  224.86302
+Actual:  242.190002
+
+ 2023-08-10
+Prediction:  220.47021
+Actual:  245.33999600000004
+
+ 2023-08-11
+Prediction:  217.52908
+Actual:  242.64999400000002
+
+ 2023-08-14
+Prediction:  212.74965
+Actual:  239.759995
+
+ 2023-08-15
+Prediction:  215.12141
+Actual:  232.960007
+
+ 2023-08-16
+Prediction:  206.65857
+Actual:  225.60000599999998
+
+ 2023-08-17
+Prediction:  205.20518
+Actual:  219.220001
+
+ 2023-08-18
+Prediction:  195.56326
+Actual:  215.49000500000002
+
+ 2023-08-21
+Prediction:  201.6805
+Actual:  231.279999
+
+ 2023-08-22
+Prediction:  216.32045
+Actual:  233.190002
+
+ 2023-08-23
+Prediction:  207.6953
+Actual:  236.860001
+
+ 2023-08-24
+Prediction:  215.05434
+Actual:  230.039993
+
+ 2023-08-25
+Prediction:  209.25159
+Actual:  238.58999600000004
+
+ 2023-08-28
+Prediction:  218.20967
+Actual:  238.82000700000003
+
+ 2023-08-29
+Prediction:  214.9755
+Actual:  257.179993
+
+ 2023-08-30
+Prediction:  227.52818
+Actual:  256.899994
+
+ 2023-08-31
+Prediction:  228.99477
+Actual:  258.079987
+
+ 2023-09-01
+Prediction:  230.07043
+Actual:  245.009995
+
+ 2023-09-05
+Prediction:  220.16179
+Actual:  256.48999
+
+ 2023-09-06
+Prediction:  228.30939
+Actual:  251.919998
+
+ 2023-09-07
+Prediction:  220.16179
+Actual:  251.49000499999997
+
+ 2023-09-08
+Prediction:  225.08794
+Actual:  248.5
+
+ 2023-09-11
+Prediction:  235.77396
+Actual:  273.579987
+
+ 2023-09-12
+Prediction:  241.06747
+Actual:  267.480011
+
+ 2023-09-13
+Prediction:  240.45212
+Actual:  271.299988
+
+ 2023-09-14
+Prediction:  241.52641
+Actual:  276.040009
+
+ 2023-09-15
+Prediction:  246.59006
+Actual:  274.390015
+
+ 2023-09-18
+Prediction:  241.38795
+Actual:  265.279999
+
+ 2023-09-19
+Prediction:  235.85057
+Actual:  266.5
+
+ 2023-09-20
+Prediction:  237.99216
+Actual:  262.589996
+
+ 2023-09-21
+Prediction:  230.5145
+Actual:  255.699997
+
+ 2023-09-22
+Prediction:  230.14061
+Actual:  244.88000500000004
+
+ 2023-09-25
+Prediction:  218.81256
+Actual:  246.990005
+
+ 2023-09-26
+Prediction:  218.4928
+Actual:  244.119995
+
+ 2023-09-27
+Prediction:  219.5645
+Actual:  240.50000000000003
+
+ 2023-09-28
+Prediction:  216.18176
+Actual:  246.380005
+
+ 2023-09-29
+Prediction:  224.17632
+Actual:  250.220001
+
+ 2023-10-02
+Prediction:  219.93549
+Actual:  251.60000600000004
+
+ 2023-10-03
+Prediction:  223.0417
+Actual:  246.52999900000003
+
+ 2023-10-04
+Prediction:  222.64188
+Actual:  261.160004
+
+ 2023-10-05
+Prediction:  232.2927
+Actual:  260.049988
+
+ 2023-10-06
+Prediction:  227.38383
+Actual:  260.529999
+
+ 2023-10-09
+Prediction:  228.43604
+Actual:  259.670013
+
+ 2023-10-10
+Prediction:  230.44518
+Actual:  263.619995
+
+ 2023-10-11
+Prediction:  237.30841
+Actual:  262.98999
+
+ 2023-10-12
+Prediction:  234.69693
+Actual:  258.869995
+
+ 2023-10-13
+Prediction:  231.36722
+Actual:  251.119995
+
+ 2023-10-16
+Prediction:  224.17632
+Actual:  253.91999799999996
+
+ 2023-10-17
+Prediction:  224.23927
+Actual:  254.850006
+
+ 2023-10-18
+Prediction:  226.30447
+Actual:  242.67999300000002
+
+ 2023-10-19
+Prediction:  205.04065
+Actual:  220.11000099999998
+
+ 2023-10-20
+Prediction:  197.97919
+Actual:  211.990005
+
+ 2023-10-23
+Prediction:  192.16563
+Actual:  212.080002
+
+ 2023-10-24
+Prediction:  197.51424
+Actual:  216.520004
+
+ 2023-10-25
+Prediction:  197.03716
+Actual:  212.419998
+
+ 2023-10-26
+Prediction:  193.23956
+Actual:  205.759995
+
+ 2023-10-27
+Prediction:  192.69382
+Actual:  207.30000299999998
+
+ 2023-10-30
+Prediction:  191.6204
+Actual:  197.360001
+
+ 2023-10-31
+Prediction:  180.82133
+Actual:  200.83999599999999
+
+ 2023-11-01
+Prediction:  187.3334
+Actual:  205.66000400000001
+
+ 2023-11-02
+Prediction:  194.63808
+Actual:  218.509995
+
+ 2023-11-03
+Prediction:  201.31856
+Actual:  219.960007
+
+ 2023-11-06
+Prediction:  203.57822
+Actual:  219.270004
+
+ 2023-11-07
+Prediction:  200.39745
+Actual:  222.179993
+
+ 2023-11-08
+Prediction:  202.92583
+Actual:  222.110001
+
+ 2023-11-09
+Prediction:  200.24098
+Actual:  209.97999599999997
+
+ 2023-11-10
+Prediction:  192.23221
+Actual:  214.649994
+
+ 2023-11-13
+Prediction:  196.80016
+Actual:  223.710007
+
+ 2023-11-14
+Prediction:  212.23543
+Actual:  237.410004
+
+ 2023-11-15
+Prediction:  215.5854
+Actual:  242.839996
+
+ 2023-11-16
+Prediction:  215.72218
+Actual:  233.589996
+
+ 2023-11-17
+Prediction:  209.83955
+Actual:  234.300003
+
+ 2023-11-20
+Prediction:  211.40529
+Actual:  235.600006
+
+ 2023-11-21
+Prediction:  212.23543
+Actual:  241.19999699999997
+
+ 2023-11-22
+Prediction:  217.76472
+Actual:  234.21000699999996
+
+ 2023-11-24
+Prediction:  211.16852
+Actual:  235.44999700000002
+
+ 2023-11-27
+Prediction:  213.63835
+Actual:  236.080002
+
+ 2023-11-28
+Prediction:  213.49907
+Actual:  246.72000099999997
+
+ 2023-11-29
+Prediction:  223.49605
+Actual:  244.139999
+
+ 2023-11-30
+Prediction:  220.22682
+Actual:  240.08000200000004
+
+ 2023-12-01
+Prediction:  210.74252
+Actual:  238.83000199999998
+
+ 2023-12-04
+Prediction:  212.74965
+Actual:  235.580002
+
+ 2023-12-05
+Prediction:  211.25371
+Actual:  238.720001
+
+ 2023-12-06
+Prediction:  218.43604
+Actual:  239.369995
+
+ 2023-12-07
+Prediction:  217.37265
+Actual:  242.63999900000002
+
+ 2023-12-08
+Prediction:  216.32045
+Actual:  243.83999599999999
+
+ 2023-12-11
+Prediction:  218.36223
+Actual:  239.74000500000002
+
+ 2023-12-12
+Prediction:  214.9755
+Actual:  237.009995
+
+ 2023-12-13
+Prediction:  211.56026
+Actual:  239.28999299999998
+
+ 2023-12-14
+Prediction:  217.07315
+Actual:  251.05000299999998
+
+ 2023-12-15
+Prediction:  225.08794
+Actual:  253.50000000000003
+
+ 2023-12-18
+Prediction:  227.22908
+Actual:  252.08000200000004
+
+ 2023-12-19
+Prediction:  226.93042
+Actual:  257.220001
+
+ 2023-12-20
+Prediction:  229.37302
+Actual:  247.13999899999996
+
+ 2023-12-21
+Prediction:  225.69106
+Actual:  254.5
+
+ 2023-12-22
+Prediction:  229.60175
+Actual:  252.53999300000004
+
+ 2023-12-26
+Prediction:  227.74599
+Actual:  256.609985
+
+ 2023-12-27
+Prediction:  230.90384
+Actual:  261.440002
+
+ 2023-12-28
+Prediction:  235.2324
+Actual:  253.179993
+
+ 2023-12-29
+Prediction:  228.30939
+Actual:  248.47999600000003
+
+ 2024-01-02
+Prediction:  253.14243
+Actual:  248.41999800000002
+
+ 2024-01-03
+Prediction:  248.35562
+Actual:  238.449997
+
+ 2024-01-04
+Prediction:  243.09966
+Actual:  237.929993
+
+ 2024-01-05
+Prediction:  240.82793
+Actual:  237.490005
+
+ 2024-01-08
+Prediction:  240.22423
+Actual:  240.449997
+
+ 2024-01-09
+Prediction:  241.96391
+Actual:  234.96000700000002
+
+ 2024-01-10
+Prediction:  239.1786
+Actual:  233.94000199999996
+
+ 2024-01-11
+Prediction:  235.02365
+Actual:  227.22000099999997
+
+ 2024-01-12
+Prediction:  225.5373
+Actual:  218.889999
+
+ 2024-01-16
+Prediction:  221.02823
+Actual:  219.910004
+
+ 2024-01-17
+Prediction:  220.85568
+Actual:  215.550003
+
+ 2024-01-18
+Prediction:  222.63898
+Actual:  211.880005
+
+ 2024-01-19
+Prediction:  216.499
+Actual:  212.190002
+
+ 2024-01-22
+Prediction:  218.49387
+Actual:  208.80000300000003
+
+ 2024-01-23
+Prediction:  217.65439
+Actual:  209.139999
+
+ 2024-01-24
+Prediction:  218.16321
+Actual:  207.83000199999998
+
+ 2024-01-25
+Prediction:  198.7395
+Actual:  182.630005
+
+ 2024-01-26
+Prediction:  195.13463
+Actual:  183.25
+
+ 2024-01-29
+Prediction:  195.22084
+Actual:  190.929993
+
+ 2024-01-30
+Prediction:  203.58885
+Actual:  191.589996
+
+ 2024-01-31
+Prediction:  196.39398
+Actual:  187.289993
+
+ 2024-02-01
+Prediction:  197.69116
+Actual:  188.86000099999998
+
+ 2024-02-02
+Prediction:  194.73253
+Actual:  187.910004
+
+ 2024-02-05
+Prediction:  194.04852
+Actual:  181.059998
+
+ 2024-02-06
+Prediction:  187.95357
+Actual:  185.100006
+
+ 2024-02-07
+Prediction:  197.39449
+Actual:  187.580002
+
+ 2024-02-08
+Prediction:  198.13593
+Actual:  189.55999799999998
+
+ 2024-02-09
+Prediction:  199.14168
+Actual:  193.570007
+
+ 2024-02-12
+Prediction:  200.83324
+Actual:  188.13000499999998
+
+ 2024-02-13
+Prediction:  193.81345
+Actual:  184.020004
+
+ 2024-02-14
+Prediction:  194.94131
+Actual:  188.710007
+
+ 2024-02-15
+Prediction:  198.2509
+Actual:  200.449997
+
+ 2024-02-16
+Prediction:  209.49207
+Actual:  199.949997
+
+ 2024-02-20
+Prediction:  204.2911
+Actual:  193.759995
+
+ 2024-02-21
+Prediction:  201.87538
+Actual:  194.770004
+
+ 2024-02-22
+Prediction:  202.45876
+Actual:  197.410004
+
+ 2024-02-23
+Prediction:  203.58885
+Actual:  191.970001
+
+ 2024-02-26
+Prediction:  200.98988
+Actual:  199.39999400000002
+
+ 2024-02-27
+Prediction:  211.24556
+Actual:  199.729996
+
+ 2024-02-28
+Prediction:  208.08678
+Actual:  202.03999299999998
+
+ 2024-02-29
+Prediction:  211.31606
+Actual:  201.880005
+
+ 2024-03-01
+Prediction:  208.1681
+Actual:  202.639999
+
+ 2024-03-04
+Prediction:  206.563
+Actual:  188.139999
+
+ 2024-03-05
+Prediction:  193.04245
+Actual:  180.740005
+
+ 2024-03-06
+Prediction:  190.42946
+Actual:  176.539993
+
+ 2024-03-07
+Prediction:  185.18088
+Actual:  178.649994
+
+ 2024-03-08
+Prediction:  191.71178
+Actual:  175.339996
+
+ 2024-03-11
+Prediction:  186.22932
+Actual:  177.770004
+
+ 2024-03-12
+Prediction:  188.47682
+Actual:  177.539993
+
+ 2024-03-13
+Prediction:  183.92763
+Actual:  169.479996
+
+ 2024-03-14
+Prediction:  178.8661
+Actual:  162.5
+
+ 2024-03-15
+Prediction:  174.47949
+Actual:  163.570007
+
+ 2024-03-18
+Prediction:  181.01921
+Actual:  173.800003
+
+ 2024-03-19
+Prediction:  183.28792
+Actual:  171.320007
+
+ 2024-03-20
+Prediction:  183.86938
+Actual:  175.660004
+
+ 2024-03-21
+Prediction:  187.14496
+Actual:  172.820007
+
+ 2024-03-22
+Prediction:  177.83049
+Actual:  170.830002
+
+ 2024-03-25
+Prediction:  179.81467
+Actual:  172.630005
+
+ 2024-03-26
+Prediction:  189.24904
+Actual:  177.669998
+
+ 2024-03-27
+Prediction:  191.63316
+Actual:  179.830002
+
+ 2024-03-28
+Prediction:  188.19499
+Actual:  175.789993
+
+ 2024-04-01
+Prediction:  186.96169
+Actual:  175.220001
+
+ 2024-04-02
+Prediction:  175.99347
+Actual:  166.630005
+
+ 2024-04-03
+Prediction:  175.32898
+Actual:  168.380005
+
+ 2024-04-04
+Prediction:  181.07169
+Actual:  171.110001
+
+ 2024-04-05
+Prediction:  180.12918
+Actual:  164.899994
+
+ 2024-04-08
+Prediction:  180.40671
+Actual:  172.979996
+
+ 2024-04-09
+Prediction:  183.78548
+Actual:  176.880005
+
+ 2024-04-10
+Prediction:  183.92763
+Actual:  171.759995
+
+ 2024-04-11
+Prediction:  183.46034
+Actual:  174.600006
+
+ 2024-04-12
+Prediction:  183.24013
+Actual:  171.050003
+0.012751979753375053
+Mean Absolute Error (MAE): 0.09877792745828629
+Mean Squared Error (MSE): 0.012751979753375053
+Root Mean Squared Error (RMSE): 0.1129246640613779
